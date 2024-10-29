@@ -1,0 +1,100 @@
+#ab {
+	width: 56px;
+	height: 56px;
+	background-color: orange;
+	border-radius: 28px;
+	text-align: center;
+	padding: 9px 0;
+	cursor: pointer;
+	position: absolute;
+	top: 300px;
+	left: 45px;
+}
+
+#ab_number {
+	position: absolute;
+	left: 48px;
+	background-color: #ff0000e6;
+	width: 26px;
+	font-size: 14px;
+	height: 18px;
+	color: white;
+	border-radius: 6px;
+	top: 0;
+}
+
+#ab2 {
+	width: 38px;
+	height: 38px;
+	background-color: white;
+	border-radius: 19px;
+	margin: 0 auto;
+	padding: 7px 0;
+	text-align: center;
+}
+
+#ab3 {
+	width: 24px;
+	height: 24px;
+	background-color: orange;
+	border-radius: 12px;
+	margin: 0 auto;
+}
+
+#ab_inside {
+	height: 305px;
+	width: 270px;
+	background-color: #ede8e8;
+	overflow-x: hidden;
+	display: none;
+	position: absolute;
+    top: 350px;
+    left: 45px;
+    border: 4px solid black;
+	border-radius: 6px;
+}
+
+#ab_inside a {
+	text-decoration: underline;
+}
+
+.ab_login {
+	font-size: 34px;
+	margin-top: 90px;
+	text-align: center;
+}
+
+#ab_inside .closebtn {
+
+}
+
+
+.ab_inside_response {
+    width: 250px;
+    height: 80px;
+    background-color: #cecece;
+    margin: auto;
+    margin-top: 15px;
+	border: 3px solid black;
+	padding: 8px;
+	border-radius: 12px;
+}
+
+
+.ab_date {
+	text-align: right;
+	font-size: 11px;
+}
+
+.ab_name{
+	font-size: 16px;	
+}
+
+.ab_text {
+
+}
+
+.ab_inside_response input {
+	padding: 4px;
+}
+
